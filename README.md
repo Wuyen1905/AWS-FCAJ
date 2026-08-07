@@ -64,9 +64,9 @@ Mục tiêu của kỳ thực tập là kết nối kiến thức về lập tr�
 
 Website báo cáo được build tự động bằng GitHub Actions và xuất bản qua GitHub Pages:
 
-### [https://wuyen1905.github.io/fcaj-rag-chat-report/](https://wuyen1905.github.io/fcaj-rag-chat-report/)
+### [https://wuyen1905.github.io/AWS-FCAJ/](https://wuyen1905.github.io/AWS-FCAJ/)
 
-Repository: [github.com/Wuyen1905/fcaj-rag-chat-report](https://github.com/Wuyen1905/fcaj-rag-chat-report)
+Repository: [github.com/Wuyen1905/AWS-FCAJ](https://github.com/Wuyen1905/AWS-FCAJ)
 
 ## Điểm nổi bật
 
@@ -276,8 +276,8 @@ Thư mục `public/` là đầu ra sinh bởi Hugo và đã được bỏ qua qu
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/Wuyen1905/fcaj-rag-chat-report.git
-   cd fcaj-rag-chat-report
+   git clone https://github.com/Wuyen1905/AWS-FCAJ.git
+   cd AWS-FCAJ
    ```
 
 2. Khởi chạy Hugo development server:
