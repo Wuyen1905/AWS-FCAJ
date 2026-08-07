@@ -55,7 +55,7 @@ Repository này lưu trữ website báo cáo thực tập của sinh viên **Võ
 | Chương trình | Workforce Bootcamp — First Cloud AI Journey |
 | Thời gian thực tập | 22/06/2026 – 12/08/2026 |
 | Chuyên gia hướng dẫn | Nguyễn Gia Hưng |
-| Giảng viên hướng dẫn | Lê Nhị Lãm Thúy |
+| Giảng viên hướng dẫn | Cao Thái Phương Thanh |
 | Đề tài chính | FCAJ RAG Chat — hệ thống hỏi đáp tài liệu có trích dẫn trên AWS |
 
 Mục tiêu của kỳ thực tập là kết nối kiến thức về lập trình, dữ liệu, mạng máy tính và điện toán đám mây vào một nguyên mẫu có thể trình diễn. Dự án kế thừa năng lực RAG cốt lõi từ Kotaemon; phần đóng góp tập trung vào đọc hiểu cấu trúc hệ thống, cấu hình Gemini, chuẩn hóa Docker, thiết kế lưu trữ bền vững, triển khai AWS, sao lưu, giám sát, quản lý chi phí và tài liệu hóa quy trình.
@@ -316,7 +316,7 @@ Trước lần triển khai đầu tiên, cần kiểm tra:
 | Sinh viên thực hiện | **Võ Hoàng Kim Quyên** |
 | Email | [kimquyenvo04@gmail.com](mailto:kimquyenvo04@gmail.com) |
 | Chuyên gia hướng dẫn | Nguyễn Gia Hưng |
-| Giảng viên hướng dẫn | Lê Nhị Lãm Thúy |
+| Giảng viên hướng dẫn | Cao Thái Phương Thanh |
 | Đơn vị thực tập | Công ty TNHH Amazon Web Services Viet Nam |
 | Chương trình | Workforce Bootcamp — First Cloud AI Journey |
 
