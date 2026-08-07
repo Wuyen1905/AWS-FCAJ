@@ -1,0 +1,19 @@
+# Hugo output and generated cache
+public/
+resources/_gen/
+.hugo_build.lock
+.hugo-server.*.log
+
+# Local drafting and document-QA artifacts
+proposal_work/
+
+# Upstream theme development/demo files are not required to build this site
+themes/hugo-theme-learn/exampleSite/
+themes/hugo-theme-learn/.grenrc.yml
+themes/hugo-theme-learn/netlify.toml
+themes/hugo-theme-learn/wercker.yml
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.tmp
