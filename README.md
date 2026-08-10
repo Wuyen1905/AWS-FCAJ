@@ -53,7 +53,7 @@ Repository này lưu trữ website báo cáo thực tập của sinh viên **Võ
 | Ngành / Lớp | Công nghệ Thông tin / DCT122C4 |
 | Đơn vị thực tập | Công ty TNHH Amazon Web Services Viet Nam |
 | Chương trình | Workforce Bootcamp — First Cloud AI Journey |
-| Thời gian thực tập | 22/06/2026 – 12/08/2026 |
+| Thời gian thực tập | 22/06/2026 – 15/08/2026 |
 | Chuyên gia hướng dẫn | Nguyễn Gia Hưng |
 | Giảng viên hướng dẫn | Cao Thái Phương Thanh |
 | Đề tài chính | FCAJ RAG Chat — hệ thống hỏi đáp tài liệu có trích dẫn trên AWS |
