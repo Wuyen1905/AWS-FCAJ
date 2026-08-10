@@ -1,6 +1,6 @@
 baseURL = "https://wuyen1905.github.io/AWS-FCAJ/"
 relativeURLs = false
-canonifyURLs = false
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
