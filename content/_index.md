@@ -26,7 +26,9 @@ chapter: false
 
 &emsp; **Internship Duration:** From 22/06/2026 to 15/08/2026
 
-![Your profile picture](/images/avatar.png)
+<div class="profile-avatar">
+  <img src="/images/avatar.jpg" alt="Portrait of Vo Hoang Kim Quyen">
+</div>
 
 ### Report Content
 

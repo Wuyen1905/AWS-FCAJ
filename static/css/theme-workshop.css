@@ -226,3 +226,28 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+.profile-avatar {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 2.25rem auto 2.75rem;
+}
+
+.profile-avatar img {
+  display: block;
+  width: min(100%, 360px);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 38%;
+  border: 1px solid rgba(35, 47, 62, 0.18);
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(35, 47, 62, 0.16);
+}
+
+@media (max-width: 480px) {
+  .profile-avatar img {
+    width: min(100%, 280px);
+  }
+}
