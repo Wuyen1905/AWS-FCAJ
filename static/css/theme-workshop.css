@@ -251,3 +251,27 @@ div.notices.info p {
     width: min(100%, 280px);
   }
 }
+
+.proposal-architecture {
+  margin: 1.75rem auto 2.25rem;
+  text-align: center;
+}
+
+.proposal-architecture img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  border: 1px solid rgba(35, 47, 62, 0.16);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(35, 47, 62, 0.12);
+}
+
+.proposal-architecture figcaption {
+  max-width: 900px;
+  margin: 0.75rem auto 0;
+  color: #5f6b7a;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}

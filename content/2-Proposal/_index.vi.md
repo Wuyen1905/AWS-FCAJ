@@ -97,6 +97,20 @@ Khi cần mở rộng sau giai đoạn thử nghiệm, Docker image có thể đ
 7. Tiến trình sao lưu đồng bộ dữ liệu cần thiết từ EBS lên S3 riêng tư bằng IAM Role của EC2.
 8. CloudWatch thu thập chỉ số và nhật ký; CloudWatch Alarm và AWS Budgets gửi cảnh báo cho người quản trị.
 
+#### Sơ đồ kiến trúc
+
+Hai sơ đồ dưới đây mô tả cùng một bản thử nghiệm ở hai mức độ chi tiết: sơ đồ rút gọn giúp nhận biết nhanh kiến trúc EC2 đang triển khai; sơ đồ đầy đủ thể hiện ranh giới mạng AWS, lưu trữ, giám sát, kiểm soát chi phí và dịch vụ Gemini bên ngoài.
+
+<figure class="proposal-architecture">
+  <img src="/images/2-Proposal/current-ec2-deployment.png" alt="Kiến trúc FCAJ RAG Chat đang triển khai trên Amazon EC2 với EBS, S3, CloudWatch và Gemini API">
+  <figcaption><strong>Hình 1.</strong> Kiến trúc bản thử nghiệm đang triển khai. Người dùng truy cập ứng dụng Kotaemon trên Amazon EC2; EBS duy trì dữ liệu ứng dụng, S3 lưu bản sao lưu riêng tư, CloudWatch hỗ trợ giám sát và Gemini API cung cấp khả năng hội thoại cùng embedding.</figcaption>
+</figure>
+
+<figure class="proposal-architecture">
+  <img src="/images/2-Proposal/aws-deployment-architecture.png" alt="Sơ đồ kiến trúc triển khai AWS chi tiết của FCAJ RAG Chat">
+  <figcaption><strong>Hình 2.</strong> Kiến trúc triển khai AWS chi tiết. Sơ đồ thể hiện Region, VPC, public subnet, Security Group, IAM Role, EC2 và EBS, đường sao lưu tới S3, luồng cảnh báo CloudWatch, thông báo AWS Budgets, người quản trị và Gemini API bên ngoài AWS.</figcaption>
+</figure>
+
 #### Thành phần và trách nhiệm
 
 | Thành phần | Vai trò trong giải pháp |

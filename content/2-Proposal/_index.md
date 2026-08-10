@@ -97,6 +97,20 @@ After the pilot, the Docker image can move to Amazon ECR, the workload to Amazon
 7. A backup task copies required data from EBS to a private S3 prefix using the EC2 IAM Role.
 8. CloudWatch collects metrics and logs, while CloudWatch Alarm and AWS Budgets notify the administrator.
 
+#### Architecture views
+
+The following diagrams present the same pilot at two levels of detail: a concise view of the currently deployed EC2 solution and a complete AWS view showing network boundaries, storage, observability, cost control, and the external Gemini dependency.
+
+<figure class="proposal-architecture">
+  <img src="/images/2-Proposal/current-ec2-deployment.png" alt="Current FCAJ RAG Chat deployment on Amazon EC2 with EBS, S3, CloudWatch, and Gemini API">
+  <figcaption><strong>Figure 1.</strong> Current pilot deployment. Users access the Kotaemon application on Amazon EC2; EBS provides persistent application storage, S3 stores private backups, CloudWatch supports monitoring, and Gemini API supplies chat and embedding capabilities.</figcaption>
+</figure>
+
+<figure class="proposal-architecture">
+  <img src="/images/2-Proposal/aws-deployment-architecture.png" alt="Detailed AWS deployment architecture for FCAJ RAG Chat">
+  <figcaption><strong>Figure 2.</strong> Detailed AWS deployment view. The diagram identifies the Region, VPC, public subnet, Security Group, IAM Role, EC2 and EBS resources, S3 backup path, CloudWatch alarm flow, AWS Budgets notification, administrator, and external Gemini API.</figcaption>
+</figure>
+
 #### Components and responsibilities
 
 | Component | Responsibility |
