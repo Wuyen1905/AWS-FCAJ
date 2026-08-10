@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-{{% notice info %}}
-Week 8 is the approved plan as of August 7, 2026. Work scheduled for August 10–15 will be compared with actual results, logs, and evidence before it is marked complete.
-{{% /notice %}}
-
 ### Week 8 objectives
 
 - Deploy the FCAJ RAG Chat pilot on AWS with EC2, EBS, S3, CloudWatch, and AWS Budgets.

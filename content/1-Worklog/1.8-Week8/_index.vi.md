@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-{{% notice info %}}
-Nội dung tuần 8 là kế hoạch đã chốt tại thời điểm cập nhật ngày 07/08/2026. Các công việc diễn ra từ 10/08 đến 15/08/2026 sẽ được đối chiếu với kết quả thực tế, nhật ký hệ thống và bằng chứng trước khi đánh dấu hoàn thành.
-{{% /notice %}}
-
 ### Mục tiêu tuần 8
 
 - Triển khai bản thử nghiệm FCAJ RAG Chat trên AWS theo kiến trúc EC2, EBS, S3, CloudWatch và AWS Budgets.
