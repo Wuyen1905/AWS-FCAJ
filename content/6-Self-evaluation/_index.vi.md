@@ -17,16 +17,16 @@ Hình thức tham gia chương trình gồm khoảng 10 buổi làm việc trự
 | STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **Kiến thức và kỹ năng chuyên môn** | Hiểu kiến thức nền tảng, sử dụng công cụ và áp dụng vào bài lab hoặc project | ☐ | ✅ | ☐ |
-| 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới và chủ động nghiên cứu tài liệu | ✅ | ☐ | ☐ |
+| 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới và chủ động nghiên cứu tài liệu | ☐ | ✅ | ☐ |
 | 3 | **Tính chủ động** | Tự lập kế hoạch, tìm hiểu và thực hiện công việc mà không phụ thuộc hoàn toàn vào hướng dẫn | ✅ | ☐ | ☐ |
-| 4 | **Tinh thần trách nhiệm** | Theo dõi tiến độ, hoàn thành công việc và ghi nhận kết quả rõ ràng | ☐ | ✅ | ☐ |
-| 5 | **Kỷ luật** | Tuân thủ lịch trình, quy định và duy trì tiến độ trong quá trình tự học | ☐ | ✅ | ☐ |
+| 4 | **Tinh thần trách nhiệm** | Theo dõi tiến độ, hoàn thành công việc và ghi nhận kết quả rõ ràng | ✅ | ☐ | ☐ |
+| 5 | **Kỷ luật** | Tuân thủ lịch trình, quy định và duy trì tiến độ trong quá trình tự học | ✅ | ☐ | ☐ |
 | 6 | **Tính cầu tiến** | Tiếp nhận góp ý, nhận diện hạn chế và điều chỉnh phương pháp làm việc | ✅ | ☐ | ☐ |
 | 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo tiến độ và mô tả vấn đề kỹ thuật | ☐ | ✅ | ☐ |
-| 8 | **Hợp tác nhóm** | Phối hợp, chia sẻ thông tin và thống nhất nhiệm vụ với các thành viên | ☐ | ✅ | ☐ |
+| 8 | **Hợp tác nhóm** | Phối hợp, chia sẻ thông tin và thống nhất nhiệm vụ với các thành viên | ✅ | ☐ | ☐ |
 | 9 | **Ứng xử chuyên nghiệp** | Tôn trọng mentor, thành viên và môi trường học tập | ✅ | ☐ | ☐ |
 | 10 | **Tư duy giải quyết vấn đề** | Phân tích nguyên nhân, kiểm tra giả thuyết và đề xuất hướng xử lý | ☐ | ✅ | ☐ |
-| 11 | **Đóng góp vào project** | Hoàn thành phần việc, đóng góp tài liệu, kiểm thử và ý kiến kiến trúc | ☐ | ✅ | ☐ |
+| 11 | **Đóng góp vào project** | Hoàn thành phần việc, đóng góp tài liệu, kiểm thử và ý kiến kiến trúc | ✅ | ☐ | ☐ |
 | 12 | **Đánh giá tổng thể** | Mức độ hoàn thành và sự tiến bộ trong toàn bộ quá trình | ☐ | ✅ | ☐ |
 
 ### Điểm mạnh

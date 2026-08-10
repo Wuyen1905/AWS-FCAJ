@@ -17,16 +17,16 @@ To provide an objective reflection on my internship progress, I assessed myself 
 | No. | Criteria | Description | Excellent | Good | Average |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **Professional knowledge and skills** | Understanding foundational knowledge, using tools, and applying them in labs or the project | ☐ | ✅ | ☐ |
-| 2 | **Ability to learn** | Acquiring new knowledge and proactively researching documentation | ✅ | ☐ | ☐ |
+| 2 | **Ability to learn** | Acquiring new knowledge and proactively researching documentation | ☐ | ✅ | ☐ |
 | 3 | **Proactiveness** | Planning, researching, and completing work without depending entirely on instructions | ✅ | ☐ | ☐ |
-| 4 | **Sense of responsibility** | Tracking progress, completing tasks, and recording results clearly | ☐ | ✅ | ☐ |
-| 5 | **Discipline** | Following schedules and rules while maintaining self-study progress | ☐ | ✅ | ☐ |
+| 4 | **Sense of responsibility** | Tracking progress, completing tasks, and recording results clearly | ✅ | ☐ | ☐ |
+| 5 | **Discipline** | Following schedules and rules while maintaining self-study progress | ✅ | ☐ | ☐ |
 | 6 | **Growth mindset** | Receiving feedback, recognizing limitations, and adjusting working methods | ✅ | ☐ | ☐ |
 | 7 | **Communication** | Presenting ideas, reporting progress, and describing technical issues | ☐ | ✅ | ☐ |
-| 8 | **Teamwork** | Coordinating, sharing information, and agreeing on responsibilities with team members | ☐ | ✅ | ☐ |
+| 8 | **Teamwork** | Coordinating, sharing information, and agreeing on responsibilities with team members | ✅ | ☐ | ☐ |
 | 9 | **Professional conduct** | Respecting mentors, participants, and the learning environment | ✅ | ☐ | ☐ |
 | 10 | **Problem-solving skills** | Analyzing causes, testing hypotheses, and proposing solutions | ☐ | ✅ | ☐ |
-| 11 | **Contribution to the project** | Completing assigned work and contributing documentation, testing, and architecture ideas | ☐ | ✅ | ☐ |
+| 11 | **Contribution to the project** | Completing assigned work and contributing documentation, testing, and architecture ideas | ✅ | ☐ | ☐ |
 | 12 | **Overall assessment** | Overall progress and level of completion throughout the internship | ☐ | ✅ | ☐ |
 
 ### Strengths
